@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qshanu2
-- 👀 I’m interested in XR MR  
+- 👀 I’m interested in XR MR and data science  
 - 🌱 I’m currently learning MR thourgh coursera
 - 💞️ I’m looking to collaborate on 3D modeling
 - 📫 How to reach me qshanu2@gmail.com
